@@ -1,4 +1,4 @@
-Lesson 1:2 - Mark-up vs. Presentation
+Lesson 2 - Mark-up vs. Presentation
 =====================================
 
 Goal:  To understand the difference between what we see in our HTML text file and what we see in the browser window when we display the HTML file.
