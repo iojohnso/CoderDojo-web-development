@@ -17,7 +17,7 @@ Introduction:  We've already learned several useful HTML tags and build some pag
 
 Change the <hr> tag to look like this:
 
-  <hr color="red" size="10" width="50%">
+    <hr color="red" size="10" width="50%">
 
 After that change, run the program again and see how it has changed.
 
@@ -30,7 +30,7 @@ Color, size and width are examples of attributes.  And attributes serve to modif
 
 Change the <hr> line in your program to the following (remove the percent sign):
 
-  <hr color="red" size="10" width="50">
+    <hr color="red" size="10" width="50">
 
 Run the program again and you will notice that the horizontal rule got shorter.  This is because width is being measured in pixels now, not percentage of the screen.  While 50% is one half of the window, 50 pixels is just a count of little dots that make up the screen picture.
 
@@ -39,10 +39,10 @@ Run the program again and you will notice that the horizontal rule got shorter. 
 
 Add the align attribute to both the header and the horizontal bar like so:
 
-  <h1 align="center">Listen up!</h1>
-  <p>I have something important to say.  Soon I will tell you what it is.</p>
-  <hr color="red" size="10" width="50%" align="left">
-  <p>Actually, I think I forgot what I was going to say.</p>
+    <h1 align="center">Listen up!</h1>
+    <p>I have something important to say.  Soon I will tell you what it is.</p>
+    <hr color="red" size="10" width="50%" align="left">
+    <p>Actually, I think I forgot what I was going to say.</p>
 
 You should now see the title centered on the page and the horizontal bar all the way over to the right.  Notice that these two HTML tags had different default ways to display on the screen but both could be changed with our code to different ways of presenting.
 
