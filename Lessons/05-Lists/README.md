@@ -16,7 +16,7 @@ Lets go back to our sample application and add the following to the bottom of th
 		<li>Jessica</li>
 	</ul>
 
-The &lt;br&gt; tag is just ensuring that we start on a new line with our lists.  The &lt;ul&gt; and &lt;/ul&gt; are the "unordered list" tags.  Inside the unordered lists tags we provide the list item tags (&lt;li&gt; and &lt;/li&gt;).  Each list item becomes a new entry in the list being created.
+The `<br>` tag is just ensuring that we start on a new line with our lists.  The `<ul>` and `</ul>` are the "unordered list" tags.  Inside the unordered lists tags we provide the list item tags (`<li>` and `</li>`).  Each list item becomes a new entry in the list being created.
 
 #### Step 2:  Lets have some order
 
