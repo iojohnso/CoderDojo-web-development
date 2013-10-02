@@ -7,10 +7,10 @@ Introduction:  We've already learned several useful HTML tags and build some pag
 
 #### Step 1:  Open or recreate our simple HTML file that looked like this:
 
-  <h1>Listen up!</h1>
-  <p>I have something important to say.  Soon I will tell you what it is.</p>
-  <hr>
-  <p>Actually, I think I forgot what I was going to say.</p>
+    <h1>Listen up!</h1>
+    <p>I have something important to say.  Soon I will tell you what it is.</p>
+    <hr>
+    <p>Actually, I think I forgot what I was going to say.</p>
 
 
 #### Step 2:  Apply some attributes to a tag
