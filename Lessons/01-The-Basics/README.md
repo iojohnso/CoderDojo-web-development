@@ -33,9 +33,9 @@ Our web page, so far, is really boring.  It doesn't do anything but display a li
 
 	This is <u>my</u> web page.
 	
-Notice that we have something different going on around the word "my" here.  This is HTML tagging.  All tags are surrounded by angle brackets (less than and greater than characters).  There is a starting tag (<u>) and an ending tag (</u>).  The ending tag is always the same as the starting tag but with the extra forward slash character (/).
+Notice that we have something different going on around the word "my" here.  This is HTML tagging.  All tags are surrounded by angle brackets (less than and greater than characters).  There is a starting tag (&lt;u&gt;) and an ending tag (&lt;/u&gt;).  The ending tag is always the same as the starting tag but with the extra forward slash character (/).
 
-Try this change to the file out by updating your html file, saving it, and clicking to refresh the page in your browser.  You should now see the word my in the sentence with an underline under it.  This is because the <u> and </u> characters are the html tag for starting and stopping underlining.  Tags do not get displayed, instead they tell the web browser to start doing something special - in this case underlining the text.
+Try this change to the file out by updating your html file, saving it, and clicking to refresh the page in your browser.  You should now see the word my in the sentence with an underline under it.  This is because the &lt;u&gt; and &lt;/u&gt; characters are the html tag for starting and stopping underlining.  Tags do not get displayed, instead they tell the web browser to start doing something special - in this case underlining the text.
 
 
 #### Step 3:  A couple more useful tags
@@ -44,12 +44,12 @@ Lets update our example to this:
 
 	<i>This</i> is <b><u>my</u> web page<b>.
 
-Try this out in your browser (don't forget to save it) and you'll see that our example is getting more interesting.  The <i></i> tags mean italics or "slanted text".  The first word now looks special.  Notice that "my web page" is now in bold text. That's what the <b></b> tags do.  Everything between them (all the text) will be in bold.  Notice that the word "my" is not both bold and underlined because it is inside both tags.
+Try this out in your browser (don't forget to save it) and you'll see that our example is getting more interesting.  The &lt;i&gt;&lt;/i&gt; tags mean italics or "slanted text".  The first word now looks special.  Notice that "my web page" is now in bold text. That's what the &lt;b&gt;&lt;/b&gt; tags do.  Everything between them (all the text) will be in bold.  Notice that the word "my" is not both bold and underlined because it is inside both tags.
 
 
 #### Step 4:  Official html structure
 
-To this point, we have just made a small example html text document.  However, HTML file usually have more structure to them.  They have a tag that goes around the outside of the whole file (the <html> tag itself) and a section for a title and the body of the file.  Lets update our example program to look like this:
+To this point, we have just made a small example html text document.  However, HTML file usually have more structure to them.  They have a tag that goes around the outside of the whole file (the &lt;html&gt; tag itself) and a section for a title and the body of the file.  Lets update our example program to look like this:
 
 	<html>
 		<title>
