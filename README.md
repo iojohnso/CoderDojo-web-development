@@ -1,4 +1,4 @@
-CoderDojo-web-development
-=========================
+CoderDojo - Web Development
+===========================
 
 Web Development Examples
