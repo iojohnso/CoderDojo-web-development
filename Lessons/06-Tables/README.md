@@ -1,4 +1,4 @@
-Lesson 1:6 - Tables
+Lesson 6 - Tables
 ===================
 
 *Goal*:  To learn how to use HTML's table tags to display charts of information in our web pages.
