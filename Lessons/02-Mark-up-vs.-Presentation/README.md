@@ -29,11 +29,11 @@ When we want our text to really start on a new line, we use the line break HTML 
 	lines of
 	text.
 
-When you run it now, you will get two lines.  The first will have everything before the line break (&lt;br&gt;) and the second will have everything after it.
+When you run it now, you will get two lines.  The first will have everything before the line break (`<br>`) and the second will have everything after it.
 
 #### Step 3:  Using paragraphs
 
-Just like in a book, we can create paragraphs with HTML tags.  Try the following example which uses the paragraph tags (&lt;p&gt; and &lt;/p&gt;):
+Just like in a book, we can create paragraphs with HTML tags.  Try the following example which uses the paragraph tags (`<p>` and `</p>`):
 
 	<p>I have something important to say.  Soon I will tell you what it is.</p>
 	<p>Actually, I think I forgot what I was going to say.</p>
@@ -47,7 +47,7 @@ We can put titles in our HTML pages and draw a line to separate two sections usi
 	<hr>
 	<p>Actually, I think I forgot what I was going to say.</p>
 
-The header tags (&lt;h1&gt; and &lt;/h1&gt;) put a big title on the page.  The horizontal rule (&lt;hr&gt;) tag drew a line to further separate our two paragraphs.
+The header tags (`<h1>` and `</h1>`) put a big title on the page.  The horizontal rule (`<hr>`) tag drew a line to further separate our two paragraphs.
 
 Awesome!  We've come a long way really quickly.  We now have a good understanding of how what we type is changed into what we see in the browser.  We have also learned a bunch of cool new HTML tags to use in making our pages pretty.
 
