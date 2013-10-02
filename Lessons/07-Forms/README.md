@@ -7,7 +7,7 @@ Introduction:  In order for the world wide web to not be just like one big book 
 
 #### Step 1: Allow some user input
 
-User input is collected via form tags (&lt;form&gt; and &lt;/form&gt;).  There are several different types of input that can be collected, but the most common is simple a text input field.  Create the following in your sample program:
+User input is collected via form tags (`<form>` and `</form>`).  There are several different types of input that can be collected, but the most common is simple a text input field.  Create the following in your sample program:
 
 	<br>
 	<form >
@@ -24,7 +24,7 @@ When we run this, we end up with two fields on the screen that we can enter data
 
 #### Step 2:  Add a submit button
 
-When data is collected from a user in a form, that data has to then be sent (submitted) to the computer.  Add the following line to your form entry just above the ending &lt;/form&gt; tag:
+When data is collected from a user in a form, that data has to then be sent (submitted) to the computer.  Add the following line to your form entry just above the ending `</form>` tag:
 
 	<input type="submit" value="Submit My Info" />
 
@@ -73,7 +73,7 @@ In this new file, we're going to put a little code in another langauge called Ja
 	}
 	</script>
 
-The script tags (&lt;script&gt; and &lt;/script&gt;) allow us to put code in another language directly into our html page.  That's about all the further we will go in learning about this for right now.  This code knows how to get our input names from our other page when the submit button is clicked.
+The script tags (`<script>` and `</script>`) allow us to put code in another language directly into our html page.  That's about all the further we will go in learning about this for right now.  This code knows how to get our input names from our other page when the submit button is clicked.
 
 Now, after the script, write the following code:
 
