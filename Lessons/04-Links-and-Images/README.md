@@ -26,13 +26,13 @@ Here's what happened:
 Just like all the different html pages on the web can be referenced by a URL (name), so can all the images.  We included an image from the CoderDojo site in the page we were making.
 
 
-#### Step 2: Just like we can link in an image from another location, we can also link to another page.  For this, we use "anchor" tags (<a> and </a>).
+#### Step 2: Just like we can link in an image from another location, we can also link to another page.  For this, we use "anchor" tags (&lt;a&gt; and &lt;/a&gt;).
 
 Type the following line at the end of your program and see what it does:
 
 	<a href="http://coderdojo.com/">Go to the CoderDojo Page</a>
 
-Here the anchor tag (<a>) needs an attribute named href.  Href stands for html reference and is the name of some page on the web.  In between the beginning and ending tags you put the text that you want the user to be able to select to go to the page.
+Here the anchor tag (&lt;a&gt;) needs an attribute named href.  Href stands for html reference and is the name of some page on the web.  In between the beginning and ending tags you put the text that you want the user to be able to select to go to the page.
 
 
 #### Step 3:  Its not only text that can be used in anchor tags.  Replace the last two lines of your program with this combined version:
