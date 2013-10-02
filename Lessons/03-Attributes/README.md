@@ -1,4 +1,4 @@
-Lesson 1:3 - Attributes
+Lesson 3 - Attributes
 =======================
 
 Goal:  To expand our knowledge of HTML tags and how they can be customized with attributes.
