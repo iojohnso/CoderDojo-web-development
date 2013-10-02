@@ -1,5 +1,5 @@
-Lesson 1:7 - Forms
-==================
+Lesson 7 - Forms
+================
 
 Goal:  So far everything we have built is about show information to users of our web pages.  Our goal now is to learn how to take some information in from our users.
 
