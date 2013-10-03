@@ -7,4 +7,4 @@ Programming is all about incremental development, which is similar to the learni
 
 We hope you enjoy the lessons.  We are looking forward to seeing what you can create!
 
-
+The links above act as folders.  Go into them and browse around.
