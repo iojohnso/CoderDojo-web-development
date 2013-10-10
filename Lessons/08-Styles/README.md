@@ -32,16 +32,20 @@ Here is a simple way to add color to the background.  Notice the `style="backgro
     		
     	</body>
     </html>
+    
+#### Step 2: Identify some colors that you like
 
-#### Step 2: Add a different color to the `h1` tag
+    http://www.w3schools.com/html/html_colors.asp
+
+#### Step 3: Add a different color to the `h1` tag
 
 Here is a hint
 
     style="color:#CC00FF"
 
-#### Step 3: Add a miltiple colors to the `li` tags
+#### Step 4: Add a miltiple colors to the `li` tags
 
-#### Step 4: Add a underline to one of the interests
+#### Step 5: Add a underline to one of the interests
 
 Here is a hint
 
