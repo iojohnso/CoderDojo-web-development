@@ -35,6 +35,10 @@ Here is a simple way to add color to the background.  Notice the `style="backgro
 
 #### Step 2: Add a different color to the `h1` tag
 
+Here is a hint
+
+    style="color:#CC00FF"
+
 #### Step 3: Add a miltiple colors to the `li` tags
 
 #### Step 4: Add a underline to one of the interests
