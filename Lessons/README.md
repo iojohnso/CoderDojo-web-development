@@ -28,3 +28,17 @@ Tables are one of HTML's most important constructs (group of tags).  This lesson
 #### 7 - Forms
 
 Finally we talk about forms and how to get input back from a user of our HTML programs.  By the end of this lesson we are starting to do some pretty advanced things and have a very well rounded introduction to HTML.
+
+#### 8 - Styles
+
+We can use styles to spice up our pages.  This involves adding a style attribute to the tags we want to spice up.
+
+#### 9 - Cascading Style Sheets (CSS)
+
+This is a cleaner way to do styling.  You'll notice how you can style many elements on a page without having to change each tag.
+
+#### 10 - Javascript (JS)
+
+...
+
+
