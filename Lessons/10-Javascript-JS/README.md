@@ -16,6 +16,21 @@ For this set of tutorials, lets create a new page.  Create a new page called:
 	
 In your new file, type the following code and then run it in the browser.
 
+	<html >
+		<head>
+			<title>JavaScript Tutorial</title>
+		</head>
+		<body>
+  	
+			<H1>Javascript code coming soon!!!
+	
+			<script language="javascript" type="text/javascript">
+				// here is where we will code...
+				</script>
+		</body>
+	</html>
+
+
 You should see this message:
 
 
