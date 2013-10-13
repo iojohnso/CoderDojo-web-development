@@ -1,4 +1,4 @@
-10 - Javascript:  Getting started and variables
+10 - Javascript 01:  Getting started and variables
 ===============================================
 
 Goal:  For us to get some javascript running in a web page and to learn a new programming concept:  the variable.
