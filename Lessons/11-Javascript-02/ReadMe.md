@@ -1,1 +1,5 @@
-put lesson here.
+Variable Comparison and Converation
+=====================
+
+Lets try that again.
+
