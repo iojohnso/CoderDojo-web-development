@@ -44,7 +44,7 @@ Lets update our example to this:
 
 	<i>This</i> is <b><u>my</u> web page<b>.
 
-Try this out in your browser (don't forget to save it) and you'll see that our example is getting more interesting.  The `<i>``</i>` tags mean italics or "slanted text".  The first word now looks special.  Notice that "my web page" is now in bold text. That's what the `<b>``</b>` tags do.  Everything between them (all the text) will be in bold.  Notice that the word "my" is not both bold and underlined because it is inside both tags.
+Try this out in your browser (don't forget to save it) and you'll see that our example is getting more interesting.  The `<i>``</i>` tags mean italics or "slanted text".  The first word now looks special.  Notice that "my web page" is now in bold text. That's what the `<b>``</b>` tags do.  Everything between them (all the text) will be in bold.  Notice that the word "my" is now both bold and underlined because it is inside both tags.
 
 
 #### Step 4:  Official html structure
