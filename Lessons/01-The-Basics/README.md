@@ -52,9 +52,9 @@ Try this out in your browser (don't forget to save it) and you'll see that our e
 To this point, we have just made a small example html text document.  However, HTML file usually have more structure to them.  They have a tag that goes around the outside of the whole file (the `<html>` tag itself) and a section for a title and the body of the file.  Lets update our example program to look like this:
 
 	<html>
-		<title>
-			My Example
-		</title>
+		<head>
+			<title>My Example</title>
+		</head>
 		<body>
 			<i>This</i> is <b><u>my</u> web page<b>.
 		</body>
