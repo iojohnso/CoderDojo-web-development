@@ -79,7 +79,7 @@ Right after the `<table>` tag but before the first <tr> tag, add the following H
 		<th>
 			Favorite Class
 		</th>
-	<tr>
+	</tr>
 
 At first this looks just like another table row (`<tr>`), but instead of using table definition tags, it used table header tags (`<th>`).  These tags create titles for the columns in our table.  
 
