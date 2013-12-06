@@ -56,7 +56,7 @@ To this point, we have just made a small example html text document.  However, H
 			<title>My Example</title>
 		</head>
 		<body>
-			<i>This</i> is <b><u>my</u> web page<b>.
+			<i>This</i> is <b><u>my</u> web page</b>.
 		</body>
 	</html>
 
