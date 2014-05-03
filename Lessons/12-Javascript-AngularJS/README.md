@@ -2,6 +2,8 @@
 
 index.html
 
+```html
+
   <!DOCTYPE html>
   <html ng-app="plunker">
   
@@ -19,8 +21,12 @@ index.html
     </body>
   
   </html>
+  
+```
 
 app.js
+
+```javascript
 
   var app = angular.module('plunker', []);
 
@@ -28,7 +34,12 @@ app.js
     $scope.name = 'World';
   });
 
+```
+
 style.css
+
+```css
 
   /* Put your css in here */
 
+```
