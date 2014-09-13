@@ -13,3 +13,8 @@ Get Started
 ===========
 
 Go to this [Example](http://plnkr.co/edit/Cw1kxZ?p=preview) to get started.  You can use Plunker to create your own pages.  This is useful because you don't have to download any special tools, and you can instantly see how your HTML/JavaScript/CSS is rendered.
+
+Other Helpful Links
+===================
+[Code Academy - Make a Website](http://www.codecademy.com/skills/make-a-website)
+
