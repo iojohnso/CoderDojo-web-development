@@ -17,10 +17,7 @@ Go to this [Example](http://plnkr.co/edit/Cw1kxZ?p=preview) to get started.  You
 Class Example Links
 ===================
 
-Holiday Wish List - Static
---------------------------
-
-  http://plnkr.co/edit/foAa14bDrLFar6WNYFXN?p=info
+[Holiday Wish List - Static](http://plnkr.co/edit/foAa14bDrLFar6WNYFXN?p=info)
 
 Other Helpful Links
 ===================
